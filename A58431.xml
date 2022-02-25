@@ -1,0 +1,140 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A relation of the adventures of a Christian-ship at Alexandria in Egypt delivered in a letter to a person of honour, from Tunis in Barbary.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58431</idno>
+            <idno type="STC">Wing R812</idno>
+            <idno type="STC">ESTC R4061</idno>
+            <idno type="EEBO-CITATION">11885627</idno>
+            <idno type="OCLC">ocm 11885627</idno>
+            <idno type="VID">50370</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58431)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50370)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 508:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A relation of the adventures of a Christian-ship at Alexandria in Egypt delivered in a letter to a person of honour, from Tunis in Barbary.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Concerns the Popish plot. Cf. BM.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Popish Plot, 1678.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:50370:1" rendition="simple:additions"/>
+            <pb facs="tcp:50370:1" rendition="simple:additions"/>
+            <head>A RELATION OF THE ADVENTURES OF A CHRISTIAN-SHIP At <hi>Alexandria</hi> in <hi>Egypt.</hi>
+Delivered in a Letter to a Perſon of Honour, from <hi>Tunis</hi> in <hi>Barbary.</hi>
+            </head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>I Doubt not but there hath come to your Lordſhips hands, before now, the Re<g ref="char:EOLhyphen"/>lation of the Adventures of a <hi>Chriſtian-Ship,</hi> in a late Letter from <hi>Legorn</hi> in <hi>Italy,</hi> done indeed by a very ingenious Pen, but differing perhaps in ſome Circumſtances, from what is nakedly and genuinely true; and believing it will be no leſs grateful to your Lordſhip, to hear the Relation of the Fortunes and Adventures of another <hi>Chriſtian-Ship</hi> (not much different in Intereſt from the o<g ref="char:EOLhyphen"/>ther) I have preſumed to preſent them to your Lordſhip in this Paper, with as much of truth and brevity as I can.</p>
+            <p>There was riding, not long ago, in that famous Port of <hi>Alexandria</hi> in <hi>Egypt,</hi> a <hi>Chriſtian-Ship,</hi> which, although of no immenſe bulk or greatneſs, yet ſo well compacted and munited, both within and without, as ſhe was not only able to de<g ref="char:EOLhyphen"/>fend her ſelf from the attacks and violence of others, but alſo give a law to moſt of the Veſſels round about her, being moſt excellently and ſtrongly manned, but with people of various ſentiments and opinions, which cannot much be wondred at, amidſt the great confluence and numbers of mariners which daily did attend her.</p>
+            <p>The Captain of this Ship (who hath commanded her for theſe ſeveral years by-paſt, and who, amongſt the moſt illuſtrious perſons on the Earth, gives place to none) was ſeconded in his Government by a Lieutenant of a very illuſtrious birth and quality, and a Standard-bearer, who (though but young) hath given ex<g ref="char:EOLhyphen"/>traordinary proofs both of his Courage and Conduct, in ſeveral great Engage<g ref="char:EOLhyphen"/>ments in the world.</p>
+            <p>This Ship, thus happy in her Commanders, happy alſo in her Navigations, and an univerſal Trade, and Peace with all, had all the felicities a Temporal Intereſt could be capable of, where ſuddenly there broke out a dark diſcovery of a horrid Plot, not only againſt the Ship it ſelf, but alſo a Conſpiracy detected againſt the perſon and life of this famous Captain.</p>
+            <p>All men ſtood amazed, all men ſtood wondring with conſternation from whence this Storm ſhould come, where it pleaſed God that (either through a remorſe in ſome of the Conſpirators, or rather an extraordinary work of Divine Provi<g ref="char:EOLhyphen"/>dence) two or three of thoſe who had been engaged in it, came and gave the firſt Twinkling Light, by which it was found to be hatched at <hi>Grand Cairo</hi> by
+<pb n="2" facs="tcp:50370:2" rendition="simple:additions"/>the chief Mufty or Biſhop there, wherein (as was ſaid) he had principally made uſe of the miniſtration and ſervice of the Coftys (a certain Religious Order in theſe parts) and half Chriſtians.</p>
+            <p>The Captain, not to be wanting to his own Security, and that of the Ships, gave preſent Orders, that the detectors ſhould be forthwith examined before himſelf, and his leſſer Council; where finding upon Oath, matter enough againſt ſeveral of them, all that could be named to it both of a higher and lower condi<g ref="char:EOLhyphen"/>tion were ſeized on, and ſecured, and many of theſe Coftyes (upon particular Informations againſt them) being brought to their Tryal before the Judge-Advo<g ref="char:EOLhyphen"/>cate of the Ship, were found guilty, and condemned, and accordingly ſuffered capital puniſhment for the ſame.</p>
+            <p>But here we muſt take notice, that that which gave the greateſt light, and con<g ref="char:EOLhyphen"/>firmation of this Plot, was the barbarous aſſaſſination or murther that happened about that time, to be committed upon the perſon of an Officer in ſome Authority about the regulation of the Peace and behaviour of the Mariners, who had been very induſtrious in the finding out, and ſecuring of theſe Coftyes, and their abet<g ref="char:EOLhyphen"/>tors; this being alſo diſcovered by one or two that had but too deep a hand in it, made this opinion of the Plot more and more obvious every day, although it was ſaid, many of the Mufty's Religion in the Ship (of the more ſober and mode<g ref="char:EOLhyphen"/>rate ſort of them) did abſolutely diſown ſuch a thing, as abhorrent to their nature and principles, and have declared (how truly, let it be to themſelves) that if the chief Mufty at <hi>Cairo,</hi> with all his Dependents, ſhould but once promote any thing that were deſtructive to the Captain, or his Ship, they would utterly diſown him in it, and help to preſerve either of them, with the utmoſt of their lives and fortunes.</p>
+            <p>But to return from this digreſſion, I muſt proceed to tell your Lordſhip, that about that time it was, that theſe detectors (having won themſelves into a good opinion with the Captain's greater Council) begun to fly higher in their accuſa<g ref="char:EOLhyphen"/>tions, whereupon ſeveral of the Mufty's Religion, of the beſt rank, who were thought to have correſponded with him, or received any Commands from him, were ſecured.</p>
+            <p>And here it did not reſt, but preſently they began to caſt ſome aſperſions up<g ref="char:EOLhyphen"/>on the Lieutenant, loading him with Calumnies, and moſt improbable untruths, that he ſhould be much under the perſuaſions of the Coftys, and had ſome in<g ref="char:EOLhyphen"/>clinations for the Mufty, for which they had no particular grounds, but what they either ſuggeſted from the Lieutenant's late marriage with a very virtuous and moſt illuſtrious Lady (but of the Mufty's Religion;) or rather his own withdraw<g ref="char:EOLhyphen"/>ing himſelf from the ordinary and publick Devotions of the Ship; grounds (as was generally thought) too mean and infirm to bottom ſuch prejudices upon, a<g ref="char:EOLhyphen"/>gainſt ſo conſiderable a perſon, as if it were rationally to be believed he would be ſo infatuated as to truckle under the Mufty, or to betray the Intereſts of the Ship (wherein he hath ſo great a ſhare himſelf) to a foreign yoke or ſervitude, which made many of the more moderate ſort of the Mariners ſuſpect the credibility of the detectors in all or every circumſtance of their detection; (though as to the main, nothing can be clearer) having alſo muttered ſomething againſt the Capt. own Lady, as if ſhe ſhould have been made privy to this Conſpiracy againſt the Capt.</p>
+            <p>And now it was not long after, that one of the chief Phyſicians of the Ship be<g ref="char:EOLhyphen"/>ing examined and tryed before the Judg-advocate for conſpiring againſt the Life of the Capt. who finding the Evidence againſt him not to be ſo poſitive and con<g ref="char:EOLhyphen"/>vincing, as they were in ſome former Tryals before him; and being loth to have the blood of any man upon him, that lay not under greater circumſtances of conviction, than could by the evidence that day be made out againſt the Phyſi<g ref="char:EOLhyphen"/>cian,
+<pb n="3" facs="tcp:50370:2"/>forbore to give any particular charge about it, but left it fairly to his Aſſeſ<g ref="char:EOLhyphen"/>ſors, who having acquitted him, many in the Ship became much concern'd there<g ref="char:EOLhyphen"/>at, reviling the Judg-Advocate with many undue and undecent reproaches againſt a perſon of his gravity and place, all which he bore with an aequanimity worthy of his dignity; and being afterwards Articled againſt by the ſame Evidence (be<g ref="char:EOLhyphen"/>fore the Capt. and his leſſer Council) as if he had misbehaved himſelf upon the place of Judicature, at the Phyſician's Tryal, and other impertinent and unbe<g ref="char:EOLhyphen"/>coming things wherewith they charged him; he was judged by the Council free from ſuch criminations and aſperſions, and left at his diſcretion, to vindicate his Reputation and Dignity, by any way he ſhould think moſt proper for it.</p>
+            <p>But, my Lord, having omitted ſome part of the Relation before, which concern'd the Lieutenant, I muſt recur a little back, to tell your Lordſhip, that this ſuſpi<g ref="char:EOLhyphen"/>cion flying very high againſt him, which being laid hold on by the Capt. greater Council, they began to ſtart ſome queſtions as to the Lieutenant's right to ſucceed in the Command of the Ship, after the deceaſe of the Capt. (if he ſhould happen to die without children) which the Capt. quickly perceiving, did expreſly forbid; but withal gave them leave to adviſe upon, and ſetle all other imaginable ſecu<g ref="char:EOLhyphen"/>rities for the good of the Ship (in ſpirituals as well as temporals) as they could poſſibly deviſe (the other way only excepted) and to gratifie them yet more, gave order to the Lieutenant, to abſent himſelf with his Family from the Ship, which he very promptly obeyed; but the greater Council ſtill inſiſting upon that point, and no way minding to give the Capt. that ſatisfaction he expected in order to his publick exigencies, he thought it fit (according to his undoubted right there<g ref="char:EOLhyphen"/>to) to put off the greater Council for a while; in the interim, the Capt. falling in<g ref="char:EOLhyphen"/>to to a dangerous diſtemper of Sickneſs, and the Lieutenant thinking himſelf ob<g ref="char:EOLhyphen"/>liged to pay him a viſit thereupon, made a private ſtep to the Ship again, in order to that duty, which being no ſooner performed, but the Capt. gave him order to return from whence he came, which command he obeyed as readily as the former.</p>
+            <p>And now, my Lord, remembring that about the former part of this Relation, I told your Lordſhip there was in this goodly Veſſel Mariners of various Judg<g ref="char:EOLhyphen"/>ments and Opinions, I ſhall therefore proceed to let your Lordſhip know, that amongſt them, there was a conſiderable Crew of Phariſaical Chriſtians, who think they out-do all others in ſanctity and holineſs of profeſſion, but a people very much detracting from, and cenſorious of all others, who are not of the ſame pro<g ref="char:EOLhyphen"/>feſſion with them; theſe, I ſay, being of uneaſie and reſtleſs natures, never left hammering ſtrange Innovations into the heads of ſome of the Pilots, thereby to divert the courſe and ſteerage of the Ship out of its ordinary courſe of Divine Worſhip; and becauſe they were reſtrained in their own way (it being contrary to publick Order) they proceeded to raiſe a mutiny in ſome out-parts of the Ship, which (like an <hi>Ignis fatuus,</hi> ſoon up, ſoon out, and miſ-leading many into its pre<g ref="char:EOLhyphen"/>cipices) was quickly allayed, by the Conduct of our young Standard-bearer, and all things ſeemed quiet again; but this Party (together with ſome others in the inner-parts of the Ship) concluding from the Indulgencies and benignity of the Standard-bearer (who had ſpared many of the Mutineers, where by Martial-Law he might have proceeded with the greater ſeverity againſt them) and taking that to proceed from deſign, which only proceeded from generoſity, they begun to fancy him their Patron and Defender, and to talk at a ſtrange rate about it, which (together with ſome private Cabals coming to the ears of the Capt.) he thought it fit even for the Standard-bearer's good, to ſever him from ſuch company, by laying his Commands upon him, to abſent himſelf alſo from the Ship, which he readily obeyed; but within a ſhort while after (being as it ws gene<g ref="char:EOLhyphen"/>rally thought, influenced upon by ſome of theſe uneaſie people) returned thither
+<pb n="4" facs="tcp:50370:3" rendition="simple:additions"/>again, without the order or approbation of the Capt. which incenſing him, and giving now order for his retreat again, he did not yield that ready obedience thereunto, which all men that entirely loved him, and would have ventured ve<g ref="char:EOLhyphen"/>ry much for him, could have wiſhed he had done; whereupon the Capt. who had only ſuſpended him from the uſe of ſome beneficial Places he had before, gave order now for the diſpoſing of them into other hands, to the grief of many honeſt Mariners, and perhaps to the diſquiet of the Capt. himſelf (who had an extraordinary affection for him) but ſeeing no other way to quench the boomſ-flames of thoſe, who had but too much abuſed the generous, and good na<g ref="char:EOLhyphen"/>ture of the Standard-bearer, he thought himſelf obliged to take this courſe, pru<g ref="char:EOLhyphen"/>dently foreſeeing, that when theſe uneaſie people had but once got their turn ſerved by him, their next courſe would be either to overturn him, or at the beſt, to have left him in the lurch for all.</p>
+            <p>And now the time drawing nigh, for the meeting of the greater Council, ſome of theſe Intriguing people had ſo ordered it, that many of the Mariners were ſol<g ref="char:EOLhyphen"/>licited to make Subſcriptions to the Petitions for the meeting thereof, which being judged by the Capt. and all the moderate and quiet ſort of the Mariners, to be an undue, and an unſafe way of proceeding, and ſet on (on purpoſe) to ob<g ref="char:EOLhyphen"/>trude ſomething upon the Capt. to the prejudice of the Lieutenant (for whom he hath alſo a very great affection) he thought it fit to put them off for ſome time more, foreſeeing (as it happened not many years before) that theſe Sub<g ref="char:EOLhyphen"/>ſcriptions being to be backt with conſiderable numbers at the Convention-place, theſe Ingeneers would ſoon have found the way to diſcriminate themſelves a Party, and to have known who ſhould have been of their Liveries, ſo that from thence it was obſerved by many, that if it had not been for theſe umbragious and ſuſpicious courſes, the meeting at that time had not been put off one day longer.</p>
+            <p>And now the Capt. not perceiving the effects he had promiſed himſelf from the Lieutenant's abſence, which he had principally cauſed to gratifie ſome hu<g ref="char:EOLhyphen"/>mours which yet he ſaw ſtill perſiſting in their unquiet courſes, hath thought it reaſonable to recall him to the Ship again, but without any part of the Govern<g ref="char:EOLhyphen"/>ment at preſent: the Standard-bearer remaining likewiſe in her; ſecluded as yet from all his former Offices and Commands: Under this poſture, under this <hi>Criſis</hi> of Affairs was this goodly and beautiful Veſſel, at the coming away of this diſ<g ref="char:EOLhyphen"/>patch, for whoſe ſafety I am always bound to pray, being commanded by one of the braveſt <hi>Heroes</hi> in the world.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
